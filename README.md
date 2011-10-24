@@ -20,7 +20,7 @@ Example usage:
     -----> HelloFramework app detected
     -----> Found a hello.txt
 
-The buildpack will detect that your app has a `hello.txt` in the root. If this file has contents, it will be copied to `goodbye.txt` with instances of the world `hello` changed to `goodbye`.
+The buildpack will detect that your app has a `hello.txt` in the root. If this file has contents, it will be copied to `goodbye.txt` with instances of the word `hello` changed to `goodbye`.
 
 Hacking
 -------
