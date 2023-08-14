@@ -11,7 +11,7 @@ Example usage:
     $ ls
     hello.txt
 
-    $ heroku create --stack cedar --buildpack http://github.com/heroku/heroku-buildpack-hello.git
+    $ heroku create --buildpack http://github.com/heroku/heroku-buildpack-hello.git
 
     $ git push heroku master
     ...
